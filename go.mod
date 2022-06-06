@@ -23,9 +23,7 @@ require (
 	github.com/prometheus/client_golang v0.9.3-0.20190127221311-3c4408c8b829
 	github.com/spf13/pflag v1.0.3
 	github.com/stretchr/testify v1.3.0
-	github.com/tidwall/gjson v1.2.1
-	github.com/tidwall/match v1.0.1 // indirect
-	github.com/tidwall/pretty v0.0.0-20190325153808-1166b9ac2b65 // indirect
+	github.com/tidwall/gjson v1.9.3
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
